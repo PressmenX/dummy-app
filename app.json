@@ -24,7 +24,12 @@
       "edgeToEdgeEnabled": true
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+  "favicon": "./assets/favicon.png"
+},
+"extra": {
+  "eas": {
+    "projectId": "461d110f-ec80-4d3a-9819-61929667688a"
+  }
+},
   }
 }
